@@ -3,12 +3,12 @@ import React from "react";
 import styles from "./ProjectCard.module.css";
 
 // Resimleri import ediyoruz
-import ecommerceImg from "../../assets/projects/ecommerce.PNG";
-import burgerImg from "../../assets/projects/burger.png";
-import netflixImg from "../../assets/projects/netflixx.PNG";
-import spotifyImg from "../../assets/projects/spotify.png";
-import carImg from "../../assets/projects/car.png";
-import translateImg from "../../assets/projects/translate.png";
+import ecommerceImg from "../../../assets/projects/ecommerce.PNG";
+import burgerImg from "../../../assets/projects/burger.png";
+import netflixImg from "../../../assets/projects/netflixx.PNG";
+import spotifyImg from "../../../assets/projects/spotify.png";
+import carImg from "../../../assets/projects/car.png";
+import translateImg from "../../../assets/projects/translate.png";
 
 // Proje resimlerini nesne olarak saklıyoruz:
 const projectImages = {

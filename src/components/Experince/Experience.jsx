@@ -4,12 +4,12 @@ import skills from "../../data/skills.json";
 
 
 
-import htmlImg from "../../assets/skills/html.png";
-import cssImg from "../../assets/skills/css.png";
-import reactImg from "../../assets/skills/react.png";
-import figmaImg from "../../assets/skills/figma.png";
-import jsImg from "../../assets/skills/javas.png";
-import tsImg from "../../assets/skills/ts.png";
+import htmlImg from "../../../assets/skills/html.png";
+import cssImg from "../../../assets/skills/css.png";
+import reactImg from "../../../assets/skills/react.png";
+import figmaImg from "../../../assets/skills/figma.png";
+import jsImg from "../../../assets/skills/javas.png";
+import tsImg from "../../../assets/skills/ts.png";
 
 // Resimleri bir nesne olarak saklıyoruz:
 const images = {

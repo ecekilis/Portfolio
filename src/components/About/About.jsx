@@ -1,9 +1,9 @@
 import React from 'react'
 import styles from "./About.module.css";
-import aboutImg from "../../assets/about/aboutImage.png";
-import cursorIcon from "../../assets/about/cursorIcon.png";
-import serverIcon from "../../assets/about/serverIcon.png";
-import uiIcon from "../../assets/about/uiIcon.png";
+import aboutImg from "../../../assets/about/aboutImage.png";
+import cursorIcon from "../../../assets/about/cursorIcon.png";
+import serverIcon from "../../../assets/about/serverIcon.png";
+import uiIcon from "../../../assets/about/uiIcon.png";
 import Info from './Info';
 
 const About = () => {
