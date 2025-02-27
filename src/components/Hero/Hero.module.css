@@ -50,6 +50,7 @@
     height: 250px;
     z-index: 1;
     border-radius: 50%;
+    border: 5px solid white;
 
 }
 
