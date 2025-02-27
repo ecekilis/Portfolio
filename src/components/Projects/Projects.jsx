@@ -15,7 +15,7 @@ export const Projects = () => {
                 })}
             </div>
             <div className={styles.contain}>
-                <a href="https://github.com/ecekilis?tab=repositories" className={styles.more}>Alle Meine Projekte</a>
+                <a href="https://github.com/ecekilis?tab=repositories" className={styles.more}>Alle Meine Projektquellcodes</a>
             </div>
         </section>
     );

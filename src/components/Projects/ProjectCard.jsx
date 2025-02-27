@@ -9,6 +9,8 @@ import netflixImg from "../../../assets/projects/netflixx.png";
 import spotifyImg from "../../../assets/projects/spotify.png";
 import carImg from "../../../assets/projects/car.png";
 import translateImg from "../../../assets/projects/translate.png";
+import restImg from "../../../assets/projects/rest.PNG";
+import autoImg from "../../../assets/projects/auto.JPG";
 
 // Proje resimlerini nesne olarak saklıyoruz:
 const projectImages = {
@@ -18,6 +20,8 @@ const projectImages = {
     "projects/spotify.png": spotifyImg,
     "projects/car.png": carImg,
     "projects/translate.png": translateImg,
+    "projects/rest.PNG": restImg,
+    "projects/auto.JPG": autoImg
 };
 
 export const ProjectCard = ({

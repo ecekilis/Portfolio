@@ -68,5 +68,27 @@
         ],
         "demo": "https://zingy-crostata-73f248.netlify.app/",
         "source": "https://github.com/ecekilis/Translate-App"
+    },
+    {
+        "title": "Restaurant-Website",
+        "imageSrc": "projects/rest.PNG",
+        "description": "Dieses Repository enthält ein Restaurantprojekt, das die Funktionalität grundlegender Restaurantmanagementsysteme bereitstellen soll. Eine responsive Website wurde entwickelt.",
+        "skills": [
+            "HTML",
+            "CSS"
+        ],
+        "demo": "https://restaurant-website-eight-theta.vercel.app/",
+        "source": "https://github.com/ecekilis/Restaurant-Website"
+    },
+    {
+        "title": "Autovermietung-Website",
+        "imageSrc": "projects/auto.JPG",
+        "description": "Dieses Repository enthält die Car Rental App, die eine benutzerfreundliche Plattform zum Mieten von Autos bietet. Die App enthält wichtige Funktionen wie das Durchsuchen verfügbarer Autos, das Vornehmen von Reservierungen, das Verwalten von Benutzerkonten und die Fahrzeugverwaltung.",
+        "skills": [
+            "HTML",
+            "CSS"
+        ],
+        "demo": "https://car-rental-webseite.vercel.app/",
+        "source": "https://github.com/ecekilis/CarRental-Webseite"
     }
 ]

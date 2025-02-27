@@ -10,5 +10,5 @@ export default defineConfig({
       localsConvention: "camelCase"
     },
   },
-  assetsInclude: ['**/*.JPG', '**/*.jpg'], // Görsel dosyalarını doğru şekilde işlemek için
+  assetsInclude: ['**/*.JPG', '**/*.jpg', '**/*.PNG', '**/*.png'], // Görsel dosyalarını doğru şekilde işlemek için
 });
