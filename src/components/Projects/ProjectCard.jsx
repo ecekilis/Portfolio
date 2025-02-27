@@ -3,9 +3,9 @@ import React from "react";
 import styles from "./ProjectCard.module.css";
 
 // Resimleri import ediyoruz
-import ecommerceImg from "../../../assets/projects/ecommerce.PNG";
+import ecommerceImg from "../../../assets/projects/ecommerce.png";
 import burgerImg from "../../../assets/projects/burger.png";
-import netflixImg from "../../../assets/projects/netflixx.PNG";
+import netflixImg from "../../../assets/projects/netflixx.png";
 import spotifyImg from "../../../assets/projects/spotify.png";
 import carImg from "../../../assets/projects/car.png";
 import translateImg from "../../../assets/projects/translate.png";
