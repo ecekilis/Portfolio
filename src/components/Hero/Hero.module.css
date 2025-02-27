@@ -1,0 +1,76 @@
+@import "../../vars.css";
+
+
+.container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 70px;
+    padding-top: 150px;
+    z-index: 1;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    z-index: 1;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 33px;
+    font-family: var(--font-roboto);
+}
+
+.description {
+    font-size: 20px;
+    font-family: var(--font-roboto);
+    margin-bottom: 52px;
+    width: 80%;
+}
+
+.contactBtn {
+    text-decoration: none;
+    color: var(--color-text);
+    background-color: var(--color-primary);
+    padding: 17px 26px;
+    border-radius: 100px;
+    font-size: 20px;
+    font-weight: 600;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.heroImg {
+    width: 250px;
+    height: 250px;
+    z-index: 1;
+    border-radius: 50%;
+
+}
+
+@media screen and (max-width:830px) {
+    .container {
+        flex-direction: column-reverse;
+    }
+
+    .content {
+        align-items: center;
+    }
+
+    .title {
+        font-size: 35px;
+    }
+
+    .description {
+        font-size: 20px;
+    }
+
+    .contactBtn {
+        font-size: 17px;
+    }
+}

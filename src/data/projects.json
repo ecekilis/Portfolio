@@ -1,0 +1,72 @@
+[
+    {
+        "title": "E-Commerce",
+        "imageSrc": "projects/ecommerce.PNG",
+        "description": "Dieses Projekt soll Benutzern grundlegende E-Commerce-Funktionen wie das Durchsuchen und Kaufen von Produkten, das Verwalten von Einkaufswagen, das Verwalten von Benutzerkonten und ein Admin-Panel für Verwaltungsaufgaben bieten.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "demo": "https://splendorous-lily-10d3d2.netlify.app/",
+        "source": "https://github.com/ecekilis/E-commerce-javascript"
+    },
+    {
+        "title": "Spotify",
+        "imageSrc": "projects/spotify.png",
+        "description": "Bei diesem Projekt handelt es sich um eine Musikplayer-Anwendung, die die grundlegenden Kernfunktionen von Spotify nachahmt. Benutzer haben die Möglichkeit, ihre Lieblingssongs anzuhören, personalisierte Wiedergabelisten zu erstellen.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "Javascript"
+        ],
+        "demo": "https://lucent-empanada-c5278d.netlify.app/",
+        "source": "https://github.com/ecekilis/Spotify"
+    },
+    {
+        "title": "Burger Restaurant",
+        "imageSrc": "projects/burger.png",
+        "description": "Dies ist ein Restaurantprojekt, das mit React Native erstellt wurde, was ein reibungsloses und reaktionsschnelles Design ermöglicht. Nachfolgend sind die wichtigsten Funktionen des Projekts aufgeführt.",
+        "skills": [
+            "CSS",
+            "React"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/ecekilis/Burger-Restaurant-"
+    },
+    {
+        "title": "Netflix Clone",
+        "imageSrc": "projects/netflixx.PNG",
+        "description": "Dieses Projekt ist ein Netflix Klon, der mit React und Redux erstellt wurde. Es ermöglicht Benutzern, Film und Serienkataloge anzuzeigen, nach Inhalten zu suchen und ihre Lieblingsauswahlen aufzulisten.",
+        "skills": [
+            "Tailwind",
+            "React",
+            "React-Redux"
+        ],
+        "demo": "https://merry-bunny-36f7b0.netlify.app/",
+        "source": "https://github.com/ecekilis/NETFLIX-Clone"
+    },
+    {
+        "title": "Car Rental",
+        "imageSrc": "projects/car.png",
+        "description": "Bei diesem Projekt handelt es sich um eine mit TypeScript entwickelte Anwendung zur Autovermietung. Die App wurde unter Berücksichtigung von Skalierbarkeit und Wartbarkeit entwickelt und folgt den Prinzipien des sauberen Codes und bewährten Methoden.",
+        "skills": [
+            "React",
+            "Tailwind",
+            "TypeScript"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/ecekilis/Car-Rental---TypeScript"
+    },
+    {
+        "title": "App übersetzen",
+        "imageSrc": "projects/translate.png",
+        "description": "Bei diesem Projekt handelt es sich um eine Übersetzungsanwendung, mit der Benutzer Texte zwischen verschiedenen Sprachen übersetzen können. Benutzer können die Quell- und Zielsprachen auswählen, in die ihr Text übersetzt werden soll.",
+        "skills": [
+            "Tailwind",
+            "React"
+        ],
+        "demo": "https://zingy-crostata-73f248.netlify.app/",
+        "source": "https://github.com/ecekilis/Translate-App"
+    }
+]

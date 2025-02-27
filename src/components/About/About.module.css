@@ -1,0 +1,58 @@
+@import "../../vars.css";
+
+.about {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 129px;
+    background-color: rgba(12, 12, 12, 0.6);
+    padding: 73px;
+    border-radius: 10px;
+    z-index: 1;
+}
+
+.aboutTitle {
+    letter-spacing: 1.75px;
+    font-size: 35px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.image {
+    width: 50%;
+
+
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.all {
+    display: flex;
+    align-items: center;
+
+}
+
+.all:hover {
+    border: 3px solid white;
+    border-radius: 10px;
+    background-image: linear-gradient(90deg,
+            rgba(165, 215, 232, 0.42) 0%,
+            rgba(255, 255, 255, 0) 100%);
+    transition: 0.4s;
+}
+
+@media screen and (max-width:830px) {
+    .aboutTitle {
+        margin-bottom: 30px;
+    }
+
+    .image {
+        display: none;
+    }
+}
