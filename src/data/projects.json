@@ -47,7 +47,7 @@
         "source": "https://github.com/ecekilis/NETFLIX-Clone"
     },
     {
-        "title": "Car Rental",
+        "title": "Autovermietung-TypeScript",
         "imageSrc": "projects/car.png",
         "description": "Bei diesem Projekt handelt es sich um eine mit TypeScript entwickelte Anwendung zur Autovermietung. Die App wurde unter Berücksichtigung von Skalierbarkeit und Wartbarkeit entwickelt und folgt den Prinzipien des sauberen Codes und bewährten Methoden.",
         "skills": [
